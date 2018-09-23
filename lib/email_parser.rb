@@ -8,3 +8,6 @@ class EmailParser
     @email=email
   end
   
+  def parse 
+    
+  
